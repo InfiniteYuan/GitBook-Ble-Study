@@ -3,7 +3,7 @@
 * [Initial page](README.md)
 * [Bluetooth Pairing Part](bluetooth-pairing-part.md)
 
-## Reference Link
+## Reference Links
 
 * [A Developer’s Guide To Bluetooth](https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/)
 * [Advertising Works, Part 1](https://www.bluetooth.com/blog/advertising-works-part-1/)
